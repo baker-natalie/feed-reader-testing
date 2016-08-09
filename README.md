@@ -12,7 +12,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 ### Live
 
-- Simply click the [link](http://feed-reader-testing.firebaseapp.com) to view the test!
+- Simply click the [link](http://baker-natalie.github.io/feed-reader-testing) to view the test!
 
 
 # Steps to Complete the Project
@@ -37,4 +37,4 @@ In this project you are given a web-based application that reads RSS feeds. The 
 - [x] Callbacks should be used to ensure that feeds are loaded before they are tested.
 - [ ] Implement error handling for undefined variables and out-of-bound array access.
 - [x] When complete - all of your tests should pass. 
-- [ ] Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
+- [x] Write a README file detailing all steps required to successfully run the application. If you have added additional tests (for Udacious Test Coverage),  provide documentation for what these future features are and what the tests are checking for.
